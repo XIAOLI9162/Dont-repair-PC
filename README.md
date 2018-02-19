@@ -1,1 +1,2 @@
-# Dont-repair-PC
+# For timer0
+# Use a timer as a delay
